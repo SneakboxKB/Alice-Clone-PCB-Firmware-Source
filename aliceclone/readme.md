@@ -1,10 +1,10 @@
 # Sneakbox Alice Clone PCB
 
-![Sneakbox Alice Clone PCB](https://imgur.com/a/wcQgpJ7)
+![Sneakbox Alice Clone PCB](https://i.imgur.com/pMZNqLXl.jpg)
 
 An Alice-compatible PCB with hotswap, and pushbutton rotary encoder socket placed at the top left key position. Firmware covers all USB-connector variants of the Sneakbox Alice Clone PCB (Top USB-C, Bottom USB-C)
 
-* Keyboard Maintainer: mujimanic
+* Keyboard Maintainer: [mujimanic](https://github.com/mujimanic)
 * Hardware Supported: Any Alice-layout case.
 * Hardware Availability: Retail
 
